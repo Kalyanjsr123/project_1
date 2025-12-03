@@ -1,4 +1,2 @@
 # project_1
-This is my first repository.
-<b>
-Author Kalyan Prasad
+This is my first repositry
